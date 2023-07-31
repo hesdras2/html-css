@@ -1,0 +1,15 @@
+@charset "utf-8";
+header {
+    font-size: 16px;
+    background-color: rgb(0, 255, 85);
+    border-radius: 20px
+
+}
+main{
+    border-radius: 10px;
+    text-align: center;
+    width: auto;
+}
+nav{
+    text-decoration: none;
+}

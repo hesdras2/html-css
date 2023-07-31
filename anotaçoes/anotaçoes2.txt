@@ -1,0 +1,26 @@
+ min-height = autura minima 
+
+text-align = alinhamento de texto 
+
+padding- espaçamentos nas caixas 
+
+text-shadow: sombras nas caixas
+
+transition-duration - trasiçao nas caixas 
+
+  display: block;
+  
+text-indent= indentaçao de texto 
+
+line-height: = lagura entre linhas
+
+ list-style-type: '\2714\00A0\00A0'; estilo da lista 
+
+   
+    list-style-position: inside; - posiçao da lista 'inside' -dentro  '
+outside'- fora
+ 
+    columns: 2; quantidade de colunas na lista 
+
+
+

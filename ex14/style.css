@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body {
+    background-color: slategrey;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 26px;
+}
+h2 {
+    color: gainsboro;
+    background-color: black;
+}
+p {
+    text-align: justify;
+    background-color: aliceblue;
+    font-style: italic;
+}

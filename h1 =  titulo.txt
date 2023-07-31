@@ -1,0 +1,52 @@
+<h1> =  titulo 
+<p> = paragrafo 
+hr = linha horizontal
+br = quebras de linhas 
+&lt; e &gt;
+emogi= &#xS
+lorem 
+h1 ate h6
+link-favicon
+strong = negrito 
+ctrl+shift+p
+mark = marca texto 
+small - texto pequeno 
+dell - texto excluido 
+teg u - sublinhado 
+ins -siblinhado nao absoleto 
+sup - em cima 
+sub - em baixo S
+code - tag pra codigos 
+comando pre - pra alinha codigos 
+shift+tab- ajeitar codigo - tab so pro gerar espaço 
+q - citaçoes 
+blockquote = e cite - citaçoes
+abbr -abreviaçoes 
+tag bdo -texto invertido 
+ol- listas
+target="_balnk" janela em braco  rel='external'
+../ voltar pra pagna fora da pasta 
+
+
+<li><a href="10 - Ligações em toda parte (1).pdf"dawnload=livro
+    type="aplication/zip">
+
+
+<source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+
+
+style="background-color
+
+
+text-align: justify;
+
+  font-size
+ tag "a"
+lang=
+cite 
+em- emfase
+a href 
+
+*{} config global css
+
+

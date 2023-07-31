@@ -1,0 +1,21 @@
+background-image: linear-gradient(to bottom,#, #);
+
+text-align
+
+border-radius
+
+box-shadow: 5px 5px 15px #0a7977;  - sombras 
+
+width- tamanho em px
+
+ padding = em px
+
+ margin: auto
+
+height = autura 
+
+width = largura
+
+ display: inline-block; = tudo na mesma linha 
+
+target="_blanc" = abrir em uma nova aba
