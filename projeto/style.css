@@ -68,3 +68,7 @@ main h2{
     text-align: center;
     font-size: 2em;
 }
+main p {
+    text-indent: 30px;
+    padding: 10px;
+}
