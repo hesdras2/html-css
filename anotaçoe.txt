@@ -26,4 +26,9 @@ target="_blanc" = abrir em uma nova aba
             background-size: 100px 100px;
 
             background-repeat: no-repeat;
+
+background-size: contain; tenta adaptar imagem  
+
+background-size: cover; - cobrir ocupa 100% vh da viwport
+    
    
