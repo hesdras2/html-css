@@ -31,4 +31,6 @@ background-size: contain; tenta adaptar imagem
 
 background-size: cover; - cobrir ocupa 100% vh da viwport
     
+text-transform: uppercase; - deixa o texto maiusculo
+
    
