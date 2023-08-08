@@ -33,4 +33,6 @@ background-size: cover; - cobrir ocupa 100% vh da viwport
     
 text-transform: uppercase; - deixa o texto maiusculo
 
+font-variant: small-caps; = letras maiusculas com as primeiras letras maiores
+
    
