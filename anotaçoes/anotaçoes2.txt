@@ -22,5 +22,7 @@ outside'- fora
  
     columns: 2; quantidade de colunas na lista 
 
+tag b =destaque  igual strong
+
 
 
