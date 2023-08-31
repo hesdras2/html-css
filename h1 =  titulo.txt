@@ -49,4 +49,8 @@ a href
 
 *{} config global css
 
+sandbox= "sandbox" - proteger contra capitura de dados no iframe
+
+referrecipolicy="no-referer"
+
 
