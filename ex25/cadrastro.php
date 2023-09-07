@@ -1,0 +1,1 @@
+aprenda php prara saber oq fazer com esses dados 
