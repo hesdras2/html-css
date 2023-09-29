@@ -85,6 +85,9 @@ main{
     margin: auto;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.479);
 }
+
+
+
 main > img {
     width: 100%;
 }
@@ -177,4 +180,8 @@ footer a{
 footer a:hover{
     text-decoration: underline;
     color: var(--cor4);
+}
+
+DIV{
+   text-align: center;
 }
